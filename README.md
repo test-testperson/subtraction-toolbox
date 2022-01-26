@@ -1,2 +1,2 @@
 # subtraction-toolbox
-A MATLAB Project for subtracting numbers
+A MATLAB Project for subtracting numbers.
